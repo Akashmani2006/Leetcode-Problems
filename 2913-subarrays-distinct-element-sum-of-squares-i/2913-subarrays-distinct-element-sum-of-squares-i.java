@@ -12,7 +12,7 @@ class Solution {
                 set.add(nums.get(k));
               }
               ans+=(set.size()*set.size());
-              set.clear();
+              set=new HashSet<>();
           }
       }
      return ans;
