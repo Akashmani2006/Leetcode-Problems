@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
+## Array
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
