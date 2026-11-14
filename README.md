@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
