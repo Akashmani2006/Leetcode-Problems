@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 ## Array
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/1882-process-tasks-using-servers) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
