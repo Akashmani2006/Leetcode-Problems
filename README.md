@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1882-process-tasks-using-servers](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/2747-count-zero-request-servers) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
