@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Akashmani2006/Leetcode-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Tree
 |  |
 | ------- |
